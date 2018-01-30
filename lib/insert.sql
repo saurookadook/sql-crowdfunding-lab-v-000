@@ -15,7 +15,7 @@ INSERT INTO users (id, name, age) VALUES (1, 'Finnebar', 17), (2, 'Bear', 6), (3
 -- INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("New Roads for Boston", "community service", 4000000, "2018-02-01", "2040-12-25");
 -- INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Better Our Publich Schools", "community development", 2000000, "2018-04-21", "2020-09-01");
 -- INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Replace Dunkin Donuts with Peet's Coffee", "community development", 5000000, "2018-05-05", "2027-07-04");
--- 
+--
 -- INSERT INTO users (name, age) VALUES ("John", 35);
 -- INSERT INTO users (name, age) VALUES ("Jacob", 41);
 -- INSERT INTO users (name, age) VALUES ("Jingleheimer", 83);
@@ -47,7 +47,7 @@ INSERT INTO users (id, name, age) VALUES (1, 'Finnebar', 17), (2, 'Bear', 6), (3
 -- INSERT INTO users (name, age) VALUES ("Vanessa", 19);
 -- INSERT INTO users (name, age) VALUES ("Mary", 23);
 -- INSERT INTO users (name, age) VALUES ("Christa", 25);
--- 
+--
 -- INSERT INTO pledges (amount, user_id, project_id) VALUES ();
 -- INSERT INTO pledges (amount, user_id, project_id) VALUES ();
 -- INSERT INTO pledges (amount, user_id, project_id) VALUES ();
