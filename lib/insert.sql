@@ -2,12 +2,12 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Food for the Homeless", "charity", 20000, "2018-02-01", "2018-12-24");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Destroy All the McDonald's", "charity", 2000000, "2018-02-01", "2020-04-01");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Exile Donald Trump to Mars", "charity", 2500000, "2018-03-01", "2020-03-01");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Make LEGOs Great Again", "fun charity", 1000000, "2018-02-05", "2019-12-01");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Eat Moar Plants", "activism", 500000, "2018-02-14", "2020-09-01");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Send Cats to Mars Colonists", "community service", 3000000, "2018-02-06", "2030-06-30");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("New Roads for Boston", "community service", 4000000, "2018-02-01", "2040-12-25");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Better Our Publich Schools", "community development", 2000000, "2018-04-21", "2020-09-01");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Replace Dunkin Donuts with Peet's Coffee", "community development", 5000000, "2018-05-05", "2027-07-04");
 
 INSERT INTO users (name, age) VALUES ();
 INSERT INTO users (name, age) VALUES ();
