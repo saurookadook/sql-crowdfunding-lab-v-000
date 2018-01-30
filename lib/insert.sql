@@ -1,7 +1,7 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Boop 'N' Bop", "funtimes", 10000, "2018-02-15", "2019-01-01");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Food for the Homeless", "charity", 20000, "2018-02-01", "2018-12-24");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Destroy All the McDonald's", "charity", 2000000, "2018-02-01", "2020-04-01");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Exile Donald Trump to Mars", "charity", 2500000, "2018-03-01", "2020-03-01");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
