@@ -1,4 +1,4 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Boop 'N' Bop", "funtimes", 10000, "2018-02-15", "2019-01-01");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ();
